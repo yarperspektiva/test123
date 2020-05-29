@@ -1,0 +1,19 @@
+node_modules/
+
+# Ignore temp files with extentions:
+# git rm --cache gulpfile.js
+*.zip
+*.psd
+*.psb
+
+old-modules/
+_old/
+html_other/
+html_data/
+gulpfile--part.js
+
+
+production/
+production/*
+production/*.*
+production/**/*.*
